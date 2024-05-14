@@ -2,7 +2,7 @@ El objetivo de esta prueba técnica es desarrollar una plataforma web colaborati
 
 **Requisitos Funcionales**
 
-[#Registro de Usuarios:]
+0. [Registro de Usuarios ☑️](#registro-de-usuarios)
 
     - Los usuarios deben poder registrarse en la plataforma proporcionando un nombre de usuario, correo electrónico y contraseña.
 
