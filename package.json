@@ -1,0 +1,24 @@
+{
+  "name": "sharedstories",
+  "version": "1.0.0",
+  "description": "red social basica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx concurrently \"npm start --prefix backend\" \"npm start --prefix frontend\"",
+    "dev": "npx concurrently \"npm start --prefix backend\" \"npm start --prefix frontend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korelsiete/SharedStories.git"
+  },
+  "author": "Aveces-codeamos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korelsiete/SharedStories/issues"
+  },
+  "homepage": "https://github.com/korelsiete/SharedStories#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
